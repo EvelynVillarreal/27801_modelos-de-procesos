@@ -1,0 +1,24 @@
+Modelos de proceso especializado
+Estos modelos surgen cuando se requiere una solución determinada para proyectos de naturaleza específica, buscando una mayor adecuación al tipo de sistema o problemática abordada. Los tres modelos principales incluyen el desarrollo basado en componentes, los métodos formales y el desarrollo orientado a aspectos.​
+
+Componentes
+El modelo basado en componentes aprovecha partes prefabricadas de software (componentes) que tienen interfaces bien definidas y cumplen funciones específicas solicitadas por el cliente. Su proceso incluye:​
+- Análisis de requerimientos para determinar las necesidades del proyecto.
+- Diseño de la arquitectura considerando cómo se integrarán los componentes.
+- Selección de componentes adecuados según requisitos funcionales y de calidad.
+- Integración y pruebas para asegurar la correcta cooperación entre componentes.​
+Este modelo promueve la reutilización, reduce tiempo y costos de desarrollo, y es ideal para sistemas modulares o con partes repetitivas.​
+
+Formales
+Los modelos formales utilizan especificaciones matemáticas rigurosas para describir, analizar y verificar sistemas software. Ofrecen:​
+- Precisión y claridad en los requisitos, facilitando la detección y corrección de ambigüedades e inconsistencias mediante análisis matemático.
+- Base para el desarrollo y verificación automática de sistemas, con mecanismos robustos de validación.
+- Aplicación en proyectos críticos (como sistemas aeroespaciales), donde los errores deben minimizarse.​
+El uso de métodos formales ayuda a lograr la integridad, trazabilidad y reutilización en el ciclo de desarrollo, así como a gestionar la evolución y la corrección de requisitos complejos.​
+
+Orientado a aspectos
+La programación orientada a aspectos (AOP) es un paradigma que busca modularizar las preocupaciones transversales (aspectos), como la seguridad, el registro o el manejo de errores, que afectan muchas partes de un software pero no se integran fácilmente en la modularización clásica. Características fundamentales:​
+- Permite especificar, diseñar y construir aspectos a lo largo del ciclo de vida, desde los requisitos hasta la implementación.​
+- Se clasifica en aspectos tempranos (durante la definición de requisitos y arquitectura), intermedios (al nivel del diseño) y finales (durante la codificación).​
+- Favorece la evolución y mantenimiento del software, al localizar modificaciones en los aspectos y reducir su impacto global.​
+El desarrollo orientado a aspectos está en constante avance y es especialmente útil en sistemas grandes y complejos donde las preocupaciones transversales deben ser gestionadas de forma clara y separada
