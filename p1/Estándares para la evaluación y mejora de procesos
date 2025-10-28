@@ -1,0 +1,48 @@
+Estándares para la evaluación y mejora de procesos
+Estos estándares y modelos permiten a las organizaciones identificar debilidades, establecer prácticas de mejora y lograr productos de software más robustos y competitivos.​
+
+Estándar De Proceso De Ciclo De Vida (ISO/IEC/IEEE 12207)
+Este estándar internacional es un marco de referencia que define todos los procesos, actividades y tareas necesarios a lo largo del ciclo de vida del software, desde la concepción hasta el retiro del sistema. Características principales:​
+
+Estructura modular y adaptable, adecuada para diferentes tamaños y tipos de organización.
+
+Establece procesos principales (desarrollo, operación y mantenimiento), de apoyo (gestión de configuración, verificación, validación, etc.) y organizativos (gestión de proyectos, calidad, etc.).
+
+Busca garantizar resultados predecibles, calidad y trazabilidad durante todas las fases del ciclo de vida del software.
+
+La correcta implementación de este estándar permite alinear la documentación, los roles y las responsabilidades del equipo, optimizando la gestión del ciclo de vida completo del software.​
+
+Modelo de Evaluación del Proceso de Ciclo de Vida del Software (ISO/IEC 15504)
+También conocido como SPICE (Software Process Improvement and Capability Determination), es un modelo destinado a la evaluación, mejora y determinación de la capacidad y madurez de los procesos de desarrollo y mantenimiento de software. Aspectos clave:​
+
+Define una escala de niveles de capacidad, desde procesos incompletos hasta procesos optimizados.
+
+Contempla la medición y evaluación de procesos, el establecimiento de fortalezas y debilidades y la determinación de prioridades de mejora.
+
+Su estructura incluye métodos de evaluación y criterios de medición aplicables a diferentes etapas, alineados con otros estándares como ISO 12207.
+
+SPICE ayuda a organizaciones a estandarizar sus procesos y compararlos con mejores prácticas internacionales.​
+
+CMMI (Capability Maturity Model Integration)
+CMMI es un modelo de referencia ampliamente utilizado que ayuda a las organizaciones a evaluar y mejorar la madurez y la capacidad de sus procesos en diferentes disciplinas relacionadas con el desarrollo de software, servicios y adquisición. Sus características incluyen:​
+
+Propone dos representaciones: por etapas (cinco niveles de madurez para rutas de mejora predefinidas) y continua (mejora específica de áreas de proceso).
+
+Establece buenas prácticas en la gestión de proyectos, desarrollo de productos, procesos organizativos y áreas de soporte.
+
+Impacta positivamente en la gestión de riesgos, la optimización de recursos y la consistencia y calidad del software entregado.
+
+Implementar CMMI facilita la alineación estratégica y operacional de la empresa, incrementando competitividad y satisfacción del cliente.​
+
+MOPROSOFT
+MoProSoft es un modelo mexicano de procesos enfocado en la industria de software nacional, especialmente a pymes y áreas internas de desarrollo en organizaciones públicas y privadas. Sus principales características son:​
+
+Divide los procesos en tres categorías: Alta Dirección (gestión de negocio), Gestión (procesos generales de administración de proyectos, recursos y procesos) y Operación (desarrollo, mantenimiento y administración de proyectos específicos).
+
+Promueve la alineación de objetivos estratégicos con la operación y la mejora continua basada en buenas prácticas de gestión e ingeniería de software.
+
+Ha mostrado resultados concretos en el fortalecimiento y profesionalización de empresas desarrolladoras de software mexicanas.
+
+MoProSoft es ideal para empresas que buscan estandarizar operaciones y elevar la competencia y calidad, facilitando además la certificación ante organismos nacionales e internacionales.​
+
+Estos estándares y modelos fundamentan las mejores prácticas para la gestión y mejora de los procesos de software, apoyando el logro de productos confiables y competitivos a nivel nacional e internacional.
